@@ -6,7 +6,7 @@
 #include <Windows.h>
 
 #include "MinHook.h"
-#include "scanner/scan.hpp""
+#include "scanner/scan.hpp"
 
 
 void prepare_console() {
